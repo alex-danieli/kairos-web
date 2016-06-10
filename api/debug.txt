@@ -1,0 +1,99 @@
+Array
+(
+    [order] => asc
+    [limit] => 10
+    [offset] => 0
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [txt_name] => Alex
+            [txt_surname] => Danieli
+            [txt_username] => adanieli
+            [fg_status] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [txt_name] => user1
+            [txt_surname] => surname1
+            [txt_username] => username1
+            [fg_status] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [txt_name] => user2
+            [txt_surname] => surname2
+            [txt_username] => username2
+            [fg_status] => 1
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [txt_name] => user3
+            [txt_surname] => surname3
+            [txt_username] => username3
+            [fg_status] => 1
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [txt_name] => user4
+            [txt_surname] => surname4
+            [txt_username] => username4
+            [fg_status] => 1
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [txt_name] => user5
+            [txt_surname] => surname5
+            [txt_username] => username5
+            [fg_status] => 1
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [txt_name] => user6
+            [txt_surname] => surname6
+            [txt_username] => username6
+            [fg_status] => 1
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [txt_name] => user7
+            [txt_surname] => surname7
+            [txt_username] => username7
+            [fg_status] => 1
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [txt_name] => user8
+            [txt_surname] => surname8
+            [txt_username] => username8
+            [fg_status] => 1
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [txt_name] => user9
+            [txt_surname] => surname9
+            [txt_username] => username9
+            [fg_status] => 1
+        )
+
+)
